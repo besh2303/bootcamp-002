@@ -5,9 +5,9 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.bootcamp</groupId>
-    <artifactId>poc-iva</artifactId>
+    <artifactId>poc-descuento</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>poc-iva</name>
+    <name>poc-descuento</name>
     <description>POC de TDD: cálculo de IVA - Bootcamp EspecializATT</description>
 
     <properties>
